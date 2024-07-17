@@ -20,6 +20,7 @@
 #nginx:1.21.1
 #nacos/nacos-server:2.0.3
 #nacos/nacos-server:2.2.0
-xuxueli/xxl-job-admin:2.3.0
-openjdk:8
-openjdk:17
+#xuxueli/xxl-job-admin:2.3.0
+#openjdk:8
+#openjdk:17
+ollama/ollama
