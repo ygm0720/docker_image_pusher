@@ -23,4 +23,6 @@
 #xuxueli/xxl-job-admin:2.3.0
 #openjdk:8
 #openjdk:17
-ollama/ollama
+#ollama/ollama
+jenkins/jenkins:jdk17
+jenkins/jenkins
