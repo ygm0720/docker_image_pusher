@@ -24,5 +24,6 @@
 #openjdk:8
 #openjdk:17
 #ollama/ollama
-jenkins/jenkins:jdk17
-jenkins/jenkins
+#jenkins/jenkins:jdk17
+#jenkins/jenkins
+jenkins/jenkins:2.469
