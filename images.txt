@@ -26,4 +26,7 @@
 #ollama/ollama
 #jenkins/jenkins:jdk17
 #jenkins/jenkins
-jenkins/jenkins:2.469
+#jenkins/jenkins:2.469
+prom/prometheus:v2.53.2
+prom/node-exporter:v1.8.2
+grafana/grafana:11.1.2
