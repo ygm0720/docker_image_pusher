@@ -31,4 +31,5 @@
 #prom/node-exporter:v1.8.2
 #grafana/grafana:11.1.2
 #prom/mysqld-exporter:v0.15.1
-prom/mysqld-exporter:latest
+#prom/mysqld-exporter:latest
+bitnami/mysqld-exporter:latest
