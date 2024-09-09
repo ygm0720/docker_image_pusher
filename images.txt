@@ -32,4 +32,5 @@
 #grafana/grafana:11.1.2
 #prom/mysqld-exporter:v0.15.1
 #prom/mysqld-exporter:latest
-bitnami/mysqld-exporter:latest
+#bitnami/mysqld-exporter:latest
+docker pull mysql:8.0.36
