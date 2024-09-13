@@ -33,5 +33,6 @@
 #prom/mysqld-exporter:v0.15.1
 #prom/mysqld-exporter:latest
 #bitnami/mysqld-exporter:latest
-mysql:8.0.36
-mysql:8.0.39
+#mysql:8.0.36
+#mysql:8.0.39
+openjdk:8
