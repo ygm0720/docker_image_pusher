@@ -1,4 +1,4 @@
-#nginx
+nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
@@ -35,4 +35,4 @@
 #bitnami/mysqld-exporter:latest
 #mysql:8.0.36
 #mysql:8.0.39
-openjdk:8
+#openjdk:8
