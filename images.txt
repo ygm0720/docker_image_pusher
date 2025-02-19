@@ -38,6 +38,7 @@ nginx
 #openjdk:8
 #elasticdump/elasticsearch-dump
 #redis:7.0.5
-logstash:7.7.1
-logstash:7.7.0
+#logstash:7.7.1
+#logstash:7.7.0
+elastic/filebeat:7.17.13
 
