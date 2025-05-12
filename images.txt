@@ -43,5 +43,5 @@ nginx
 #elastic/filebeat:7.17.13
 #elasticsearch:7.17.13
 #kibana:7.17.13
-portainer-image
+portainer-image:latest
 
