@@ -40,5 +40,7 @@ nginx
 #redis:7.0.5
 #logstash:7.7.1
 #logstash:7.7.0
-elastic/filebeat:7.17.13
+#elastic/filebeat:7.17.13
+elasticsearch:7.17.13
+kibana:7.17.13
 
