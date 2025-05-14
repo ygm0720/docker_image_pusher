@@ -43,5 +43,6 @@ nginx
 #elastic/filebeat:7.17.13
 #elasticsearch:7.17.13
 #kibana:7.17.13
-portainer/portainer:latest
+#portainer/portainer:latest
+mysql:5.7.31
 
