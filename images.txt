@@ -44,5 +44,7 @@ nginx
 #elasticsearch:7.17.13
 #kibana:7.17.13
 #portainer/portainer:latest
-mysql:5.7.31
+#mysql:5.7.31
+docker.io/atlassian/confluence:latest
+zentao:latest
 
