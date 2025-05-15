@@ -1,4 +1,4 @@
-nginx
+$nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
@@ -45,6 +45,7 @@ nginx
 #kibana:7.17.13
 #portainer/portainer:latest
 #mysql:5.7.31
-docker.io/atlassian/confluence:latest
-idoop/zentao:latest
+#docker.io/atlassian/confluence:latest
+#idoop/zentao:latest
+atlassian/confluence-server:latest
 
