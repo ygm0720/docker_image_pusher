@@ -48,5 +48,6 @@
 #docker.io/atlassian/confluence:latest
 #idoop/zentao:latest
 #atlassian/confluence-server:latest
-atlassian/confluence-server:8.0.2-jdk17
+#atlassian/confluence-server:8.0.2-jdk17
+haxqer/confluence:9.0.2
 
