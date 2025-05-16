@@ -47,5 +47,6 @@
 #mysql:5.7.31
 #docker.io/atlassian/confluence:latest
 #idoop/zentao:latest
-atlassian/confluence-server:latest
+#atlassian/confluence-server:latest
+atlassian/confluence-server:8.0.2-jdk17
 
