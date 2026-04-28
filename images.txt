@@ -51,5 +51,6 @@
 #atlassian/confluence-server:8.0.2-jdk17
 #haxqer/confluence:9.0.2
 #idoop/zentao:18.3
-logstash:7.17.13
+#logstash:7.17.13
+jumpserver/jms_all
 
