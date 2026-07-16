@@ -52,5 +52,6 @@
 #haxqer/confluence:9.0.2
 #idoop/zentao:18.3
 #logstash:7.17.13
-jumpserver/jms_all
+#jumpserver/jms_all
+sonatype/nexus3
 
